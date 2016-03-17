@@ -9,6 +9,7 @@ public class MainActivity extends AppCompatActivity {
 
     private Button mButton;
     private TextView mTextView;
+    private TextView ss;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
